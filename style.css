@@ -1,0 +1,173 @@
+*{  margin:0%;
+    padding:0%;
+    }
+
+body{ background: #b5f1f9; }
+
+#imagem-de-fundo{
+    width: 100vw;
+    height: 70vh;
+}
+
+#section-1{
+    padding: 3vw 4vh ;
+    
+}
+
+#section-2{
+    padding:3vw 4vh ;
+    
+}
+
+h1{ color: #0000cd; 
+    margin-left: 20vw;
+    position:absolute;  
+    margin-top: 38vh;
+    font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+    font-size: 355%;
+    font-style: italic;
+    
+    
+}
+
+h2{ text-align: center;
+    color: #000000;
+    padding-top: 6px ;
+    padding-bottom: 16px;
+    font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+    font-size: 29px;
+    text-shadow: 5px 5px 6px #000000;}
+
+
+.foto-do-lugar{
+    width:30vw;
+    height: 45vh;
+    margin: 0;
+
+}
+
+h3{
+    text-align: center;
+    color: #000000;
+    font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+    font-size: 40px;
+    padding-top: 1px;
+    padding-bottom: 18px;
+    text-shadow: 5px 5px 6px #000000;
+}
+
+.tira-gosto{ width:30vw ;
+    height: 40vh;}
+
+
+h4{
+    text-align: center;
+    color: #000000;
+    font-family:New Century Schoolbook, TeX Gyre Schola, serif ;
+    font-size: 40px;
+    margin-bottom: 20px;
+    text-shadow: 5px 5px 6px #000000;
+}
+
+.cervejas{
+    width: 23vw;
+    height: 40vh;
+}
+
+h5{
+    text-align: center;
+    color: #000000;
+    font-family:New Century Schoolbook, TeX Gyre Schola, serif ;
+    font-size: 40px;
+    text-shadow: 5px 5px 6px #000000;
+} 
+
+.bebidas-quente{
+    
+    width: 23vw;
+    height: 40vh;
+
+}
+
+#div-bebidas{
+    padding: 3px 14px;
+}
+
+#div-cerveja{
+    padding: 3px 14px;
+}
+
+#refrigerantes{
+    padding: 3px 14px;
+}
+
+h6{
+    font-size: 40px;
+    font-family:New Century Schoolbook, TeX Gyre Schola, serif ;
+    text-align: center;
+    text-shadow: 5px 5px 6px #000000;
+}
+
+.refrigerante{
+    width: 23vw;
+    height: 40vh;
+}
+
+
+
+a{
+    cursor: pointer;
+    font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+    margin-left: 38vw;
+    font-size: 20px;
+    padding-bottom: 20px;
+    
+}
+
+a:hover{
+  color:  #ff0000;
+}
+
+p{
+    text-align: center;
+    font-family: New Century Schoolbook, TeX Gyre Schola, serif ;
+    font-size: 30px;
+    padding-top: 5px ;
+    padding-bottom: 5px;
+
+}
+
+#div-do-link{
+    display: inline-block;
+}
+
+#incone{
+    width: 4vw;
+    height: 4vh;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
